@@ -1,0 +1,14 @@
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\bin\Debug\net6.0\AutoProductionChains.exe
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\bin\Debug\net6.0\AutoProductionChains.deps.json
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\bin\Debug\net6.0\AutoProductionChains.runtimeconfig.json
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\bin\Debug\net6.0\AutoProductionChains.dll
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\bin\Debug\net6.0\AutoProductionChains.pdb
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\AutoProductionChains.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\AutoProductionChains.AssemblyInfoInputs.cache
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\AutoProductionChains.AssemblyInfo.cs
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\AutoProductionChains.csproj.CoreCompileInputs.cache
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\AutoProductionChains.dll
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\refint\AutoProductionChains.dll
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\AutoProductionChains.pdb
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\AutoProductionChains.genruntimeconfig.cache
+G:\Programmer (x86)\Datalogi - Bachelors Project\AutoProductionChains\AutoProductionChains\obj\Debug\net6.0\ref\AutoProductionChains.dll
