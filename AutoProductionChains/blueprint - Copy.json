@@ -1,0 +1,37 @@
+﻿{
+  "blueprint":{
+    "item": "blueprint",
+    "label": "testblueprint",
+    "entities": [
+      {
+        "entity_number": 1,
+        "name": "inserter",
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "request_from_buffers": false
+      }
+    ],
+    "tiles": [
+      {
+        "name": "landfill",
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ],
+    "icons": [
+      {
+        "index": 1,
+        "signal": {
+          "name": "signal-0",
+          "type": "virtual"
+        }
+      }
+    ],
+    "schedules": [],
+    "version": 0
+  }
+}

@@ -6,6 +6,7 @@ using AutoProductionChains.BlueprintJSONObjects;
 using System.Runtime.CompilerServices;
 using System.Text.Json;
 
+
 namespace AutoProductionChains
 {
     internal class Program
@@ -25,7 +26,6 @@ namespace AutoProductionChains
             string testBlueprintString = BlueprintHandler.EncodeBP(blueprintJsonFile);
 
             Console.WriteLine(testBlueprintString);
-
         }
     }
 
