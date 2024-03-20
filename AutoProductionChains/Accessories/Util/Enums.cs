@@ -9,8 +9,8 @@ namespace AutoProductionChains.Accessories.Util
     public enum EntityObjectDirection
     {
         Down = 1,
-        Left = 2,
+        Right = 2,
         Up = 4,
-        Right = 6
+        Left = 6
     }
 }
